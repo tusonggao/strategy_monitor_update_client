@@ -1,0 +1,8 @@
+pick event
+http://matplotlib.org/examples/event_handling/pick_event_demo2.html
+
+bar chart event
+http://www.cnblogs.com/qianlifeng/archive/2012/02/13/2350086.html
+
+
+不要对冲期货的，要指数的，单日基差变化的线替换掉期货的线
